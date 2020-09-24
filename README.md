@@ -1,5 +1,8 @@
 # zeponzpelit
 
+<img src="https://i.imgur.com/HZpkukD.png">
+
+
 ## Project setup
 ```
 npm install
